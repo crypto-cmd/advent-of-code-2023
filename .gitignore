@@ -1,2 +1,6 @@
 *.txt
 target
+*.hi
+*.o
+*.exe
+*.out
